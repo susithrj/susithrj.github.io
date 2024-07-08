@@ -447,6 +447,8 @@ strong {
 /* links, buttons */
 .lnks {
 	position: absolute;
+	display: flex;
+	justify-content: space-around;
 	bottom: 0;
 	left: 0;
 	width: 100%;
